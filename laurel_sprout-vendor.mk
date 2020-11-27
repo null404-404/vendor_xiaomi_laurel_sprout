@@ -3607,7 +3607,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libantradio \
     libMpeg4SwEncoder \
-    libplatformconfig \
     libthermalclient \
     vendor.qti.hardware.fm@1.0 \
     WfdService \
